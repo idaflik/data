@@ -1,182 +1,181 @@
-date,tote,verletzte,status
-13.02.70,7,9,1
-22.08.80,2,0,1
-26.09.80,12,312,1
-31.07.82,0,7,1
-26.08.84,7,23,1
-19.06.85,3,42,1
-12.03.91,1,0,1
-05.10.91,0,1,1
-11.10.91,0,1,1
-11.10.91,0,1,1
-18.10.91,0,4,1
-22.10.91,0,2,1
-03.11.91,0,10,1
-14.11.91,0,1,1
-28.11.91,0,2,1
-31.01.92,3,1,1
-24.02.92,0,1,1
-20.04.92,0,12,1
-11.05.92,1,7,1
-29.05.92,0,7,1
-09.06.92,0,2,1
-15.07.92,1,1,1
-22.08.92,0,152,1
-30.08.92,0,1,1
-07.09.92,0,7,1
-12.09.92,0,2,1
-13.10.92,0,2,1
-19.10.92,0,1,1
-22.10.92,0,2,1
-03.11.92,0,2,1
-05.11.92,0,1,1
-05.11.92,0,1,1
-14.11.92,1,0,1
-18.11.92,1,2,1
-23.11.92,3,9,1
-05.12.92,0,4,1
-08.12.92,0,1,1
-23.12.92,0,2,1
-29.05.93,5,17,1
-01.01.94,0,22,1
-01.01.94,0,7,1
-10.01.94,0,1,1
-01.03.94,0,1,1
-18.04.94,0,1,1
-23.04.94,0,1,1
-12.05.94,0,2,1
-12.05.94,0,6,1
-19.05.94,0,2,1
-21.08.94,0,1,1
-22.09.94,0,1,1
-28.09.94,2,0,1
-08.10.94,0,3,1
-09.10.94,0,4,1
-12.02.95,1,0,1
-20.02.95,0,1,1
-08.03.95,0,1,1
-17.07.95,0,1,1
-04.09.95,1,3,1
-18.01.96,10,55,1
-09.04.96,0,1,1
-10.04.96,0,3,1
-23.07.96,0,1,1
-05.02.97,0,2,1
-21.07.97,0,21,1
-08.08.97,0,2,1
-23.07.99,0,2,1
-16.07.00,0,3,1
-27.07.00,0,10,1
-20.08.00,0,7,1
-09.09.00,1,0,1
-19.01.01,0,1,1
-24.05.01,0,1,1
-24.05.01,0,2,1
-13.06.01,1,0,1
-27.06.01,1,0,1
-17.08.01,0,2,1
-29.08.01,1,0,1
-21.02.04,0,3,1
-25.02.04,1,0,1
-09.06.04,0,22,1
-09.06.05,1,0,1
-15.06.05,1,0,1
-04.04.06,1,0,1
-06.04.06,1,0,1
-02.02.07,1,0,1
-25.04.07,1,1,1
-29.07.14,0,0,1
-10.08.14,0,0,1
-11.08.14,0,0,1
-25.08.14,0,0,1
-30.08.14,0,0,1
-04.09.14,0,0,1
-29.09.14,0,0,1
-11.10.14,0,0,1
-12.10.14,0,0,1
-12.12.14,0,0,1
-28.06.15,0,0,1
-29.06.15,0,0,1
-12.07.15,0,0,1
-15.07.15,0,0,1
-20.08.15,0,0,1
-21.08.15,0,0,1
-24.08.15,0,0,1
-25.08.15,0,0,1
-25.08.15,0,0,1
-28.08.15,0,0,1
-04.09.15,0,5,1
-07.09.15,0,0,1
-07.09.15,0,0,1
-09.09.15,0,0,1
-11.09.15,0,0,1
-19.09.15,0,0,1
-19.09.15,0,0,1
-19.09.15,0,2,1
-19.09.15,0,0,1
-03.10.15,0,0,1
-03.10.15,0,0,1
-04.10.15,0,0,1
-11.10.15,0,0,1
-16.10.15,0,0,1
-28.10.15,0,0,1
-31.10.15,0,0,1
-31.10.15,0,3,1
-31.10.15,0,2,1
-01.11.15,0,1,1
-01.11.15,0,1,1
-01.11.15,0,0,1
-02.11.15,0,0,1
-15.11.15,0,0,1
-22.11.15,0,0,1
-28.11.15,0,0,1
-07.12.15,0,10,1
-09.12.15,0,0,1
-13.12.15,0,0,1
-14.12.15,0,0,1
-20.12.15,0,0,1
-20.12.15,0,0,1
-24.12.15,0,12,1
-24.12.15,0,0,1
-26.12.15,0,0,1
-31.12.15,0,0,1
-01.01.16,0,1,1
-04.01.16,0,1,1
-17.01.16,0,2,1
-25.01.16,0,0,1
-30.01.16,0,0,1
-30.01.16,0,0,1
-02.02.16,0,0,1
-20.02.16,0,0,1
-22.07.16,9,36,1
-25.09.16,0,0,1
-27.09.16,0,0,1
-27.09.16,0,5,1
-27.09.16,0,0,1
-06.10.16,0,3,1
-25.10.16,0,12,1
-08.11.16,0,0,1
-14.11.16,0,0,1
-14.04.17,0,0,1
-14.04.17,0,0,1
-29.06.17,0,0,1
-27.11.17,0,1,1
-07.01.18,0,0,1
-17.02.18,0,3,1
-02.03.18,0,0,1
-11.03.18,0,0,1
-11.03.18,0,0,1
-12.03.18,0,0,1
-19.03.18,0,0,1
-25.03.18,0,0,1
-17.07.18,0,0,1
-27.08.18,0,1,1
-14.09.18,0,0,1
-18.10.18,0,0,1
-02.06.19,1,0,1
-22.07.19,0,1,1
-24.07.19,0,0,1
-28.07.19,0,0,1
-15.09.19,0,1,1
-09.10.19,2,2,1
-19.02.20,10,5,1
+date,ort,tater,ausrichtung,mittel,target,tote,verletzte,status,opfer
+13.02.70,München,,,Brandbeschleuniger,Jüdisches Altenheim,7,9,1,
+22.08.80,Hamburg,Deutsche Aktionsgruppen,"rechtsextremistisch, neonazistisch",Brandstiftung,Flüchtlingsunterkunft,2,0,1,
+26.09.80,München,Gundolf Köhler (Wehrsportgruppe Hoffmann),nationalsozialistisch,Sprengstoff,Veranstaltung,12,312,1,
+31.07.82,München,,,Sprengstoff,Flughafen,0,7,1,
+26.08.84,Duisburg-Wanheimerort,,,Brandstiftung,von Migranten bewohntes Mehrfamilienhaus,7,23,1,
+19.06.85,Frankfurt am Main,,,2 Sprengsätze,Flughafen,3,42,1,
+12.03.91,Berlin,,,Pistole,Polizist vor Türkischem Konsulat,1,0,1,
+05.10.91,Eisenhüttenstadt,Neonazis,neonazistisch,,Asylbewerber,0,1,1,
+11.10.91,Greifswald,Neonazis,neonazistisch,,Marokkanischer Zivilist,0,1,1,
+11.10.91,Profen,Neonazis,neonazistisch,Pistole,Asylbewerberheim,0,1,1,
+18.10.91,Schwedt,Neonazis,neonazistisch,,Polnische Zivilisten in Fahrzeug,0,4,1,
+22.10.91,Trier,Neonazis,neonazistisch,,Afrikanische Zivilisten,0,2,1,
+03.11.91,Bonn,,,Brandstiftung,Migrantenwohnheim,0,10,1,
+14.11.91,Leipzig,Neonazis,neonazistisch,Messer,Vietnamesische Familie,0,1,1,
+28.11.91,Brandenburg,Neonazis,neonazistisch,,Israelische Touristen,0,2,1,
+31.01.92,Lampertheim,3 Jugendliche,"rechtsextremistisch, rassistisch",Brandstiftung,Flüchtlingsheim,3,1,1,
+24.02.92,Blankenfelde-Mahlow,Neonazis,neonazistisch,,Asylbewerberheim,0,1,1,
+20.04.92,Berlin,Neonazis,neonazistisch,,Friedensmarsch,0,12,1,
+11.05.92,Magdeburg,Neonazis,neonazistisch,"Baseballschläger, Stahlrohre, Leuchtkugeln",Lokal,1,7,1,
+29.05.92,Mönchenglch,,,Messer,Ausländer-Hostel,0,7,1,
+09.06.92,Nudow,Neonazis,neonazistisch,"Ketten, Messer",Campingplatz,0,2,1,
+15.07.92,Stuttgart,Neonazis,neonazistisch,,Gastarbeiter-Herberge,1,1,1,
+22.08.92,Rostock-Lichtenhagen,Neonazis,neonazistisch,"Betonplatten, Steine, Flaschen, Molotowcocktails, Leuchtraketen, Signalmunition, Schusswaffe","Zentrale Aufnahmestelle für Asylbewerber, Wohnheim für ehemalige vietnamesische Vertragsarbeiter, Polizisten",0,152,1,
+30.08.92,Cottbus,Neonazis,neonazistisch,"Steine, Brandstiftung",Polizisten vor Ausländer-Hostel,0,1,1,
+07.09.92,Halle,Neonazis,neonazistisch,Brandstiftung,"Residenzen, Vietnamesische Zivilisten",0,7,1,
+12.09.92,Hemsbach,Neonazis,neonazistisch,Brandstiftung,Ausländer-Hostel,0,2,1,
+13.10.92,Dresden,Neonazis,neonazistisch,,Polnische Staatsbürger,0,2,1,
+19.10.92,Koblenz,Neonazis,neonazistisch,Brandstiftung,Ausländer-Hostel,0,1,1,
+22.10.92,Lahstedt,Neonazis,neonazistisch,Brandstiftung,Ausländer-Hostel,0,2,1,
+03.11.92,Siegen,vermutlich Neonazis,neonazistisch,Autobombe,Britische Staatsbürger,0,2,1,
+05.11.92,Wolgast,Neonazis,neonazistisch,Knüppel,Südafrikanischer Asylbewerber,0,1,1,
+05.11.92,Neubrandenburg,Neonazis,neonazistisch,,Zivilistin,0,1,1,
+14.11.92,Wuppertal,Neonazis (Nationalistische Front),"rechtsextremistisch, neonazistisch, antisemitisch","Körperliche Gewalt, Lynchmord mittels Feuer",Karl-Hans Rohn,1,0,1,
+18.11.92,Berlin,Neonazis,neonazistisch,Messer,Linke Aktivisten,1,2,1,
+23.11.92,Mölln,Neonazis,neonazistisch,Molotowcocktails,"Türkische Familie, Wohngebäude",3,9,1,Ayse Yilmaz
+05.12.92,Sindelfingen,,,Brandstiftung,Asylbewerberheim,0,4,1,
+08.12.92,Bamberg,Neonazis,neonazistisch,Messer,Indischer Student,0,1,1,
+23.12.92,Köln,Neonazis,neonazistisch,Brandstiftung,Türkische Familie,0,2,1,
+29.05.93,Solingen,Neonazis,neonazistisch,Brandstiftung,"Türkische Familie, Zweifamilienhaus",5,17,1,
+01.01.94,Bremen,Neonazis,neonazistisch,Steine,Polizeieinheit,0,22,1,
+01.01.94,Moisburg,Neonazis,neonazistisch,,Türkische Einwanderer,0,7,1,
+10.01.94,Berlin,Neonazis,neonazistisch,Messer,Behinderte Zivilistin,0,1,1,
+01.03.94,Halle,Neonazis,neonazistisch,Körperliche Gewalt,Ghanaischer Flüchtling,0,1,1,
+18.04.94,Göttingen,Neonazis,neonazistisch,Axt,Israelischer Staatsbürger,0,1,1,
+23.04.94,Hoyerswerda,Neonazis,neonazistisch,,Vietnamesischer Flüchtling,0,1,1,
+12.05.94,Magdeburg,Neonazis,neonazistisch,"Steine, Knüppel",5 Afrikaner,0,2,1,
+12.05.94,Magdeburg,Neonazis,neonazistisch,Messer,Türkische Touristen,0,6,1,
+19.05.94,Siegburg,Neonazis,neonazistisch,,Buspassagiere,0,2,1,
+21.08.94,Gotha,,,,Aserbaidschanischer Staatsbürger,0,1,1,
+22.09.94,Oranienburg,Neonazis,neonazistisch,Messer,Ghanaischer Zivilist,0,1,1,
+28.09.94,Herford,,,Brandstiftung,Containerdorf für Asylbewerber,2,0,1,
+08.10.94,Berlin,Neonazis,neonazistisch,,U-Bahn-Passagiere,0,3,1,
+09.10.94,Magdeburg,Neonazis,neonazistisch,Stichwaffe,Afrikanische Asylbewerber,0,4,1,
+12.02.95,Velbert,Rechtsextremisten,"rechtsextremistisch, nationalsozialistisch",Messer,Obdachloser,1,0,1,
+20.02.95,Greifsw118a,Rechtsextremisten,"rechtsextremistisch, nationalsozialistisch",,Chinesische Wirtschaftsdelegation,0,1,1,
+08.03.95,Gladbeck,,,Brandstiftung,Türkische Residenzen,0,1,1,
+17.07.95,Seligenstadt,,,Brandstiftung,Türkisches Geschäft,0,1,1,
+04.09.95,Neumünster,,,Schusswaffe,Kurdische Zivilisten,1,3,1,
+18.01.96,Lübeck,vermutlich Neonazis,"neonazistisch, xenophob",Brandstiftung,Asylbewerberheim,10,55,1,
+09.04.96,Essen,,,Messer,Türkische Zivilistin,0,1,1,
+10.04.96,Zwickau,,,,Türkisches Geschäft,0,3,1,
+23.07.96,Bremen,,,Brandstiftung,Türkischer Verein,0,1,1,
+05.02.97,Göppingen,,,Brandstiftung,Türkisches Kulturzentrum,0,2,1,
+21.07.97,Essen,,,Brandstiftung,Asylbewerberheim,0,21,1,
+08.08.97,Friedrichshafen,Neonazis,neonazistisch,Baseballschläger,Camper,0,2,1,
+23.07.99,München,,,Sprengstoff,Türkisches Reisebüro,0,2,1,
+16.07.00,Ludwigshafen,,,Brandstiftung,Flüchtlingsheim,0,3,1,
+27.07.00,Düsseldorf,,"rechtsextremistisch, neonazistisch",Rohrbombe,"S-Bahnhof Düsseldorf-Wehrhahn, Fremdsprachenstudenten",0,10,1,
+20.08.00,Eisenhüttenst142a,vermutlich Neonazis,neonazistisch,Rauchbombe,Asylbewerberheim,0,7,1,
+09.09.00,Nürnberg,NSU,"rechtsextremistisch, neonazistisch, rassistisch, xenophob",Pistole,Türkischer Blumenhändler,1,0,1,
+19.01.01,Köln,NSU,"rechtsextremistisch, neonazistisch, rassistisch, xenophob",Sprengfalle,Lebensmittelmarkt,0,1,1,
+24.05.01,Hannover,Skinheads,,Stichwaffe(n),Iranische Zivilisten,0,1,1,
+24.05.01,Leipzig,Skinheads,,Stichwaffe(n),Italienische Zivilistin,0,2,1,
+13.06.01,Nürnberg,NSU,"rechtsextremistisch, neonazistisch, rassistisch, xenophob",Pistole,Türkischer Schneider,1,0,1,
+27.06.01,Hamburg,NSU,"rechtsextremistisch, neonazistisch, rassistisch, xenophob",Pistole,Türkischer Gemüsehändler,1,0,1,
+17.08.01,Cham,Neonazis,neonazistisch,Stichwaffe(n),Asylbewerber,0,2,1,
+29.08.01,München,NSU,"rechtsextremistisch, neonazistisch, rassistisch, xenophob",Pistole,Türkischer Gemüsehändler,1,0,1,
+21.02.04,Pasewalk,Neonazis,"neonazistisch, xenophob",Reizgas,Griechisches Restaurant,0,3,1,
+25.02.04,Rostock,NSU,"rechtsextremistisch, neonazistisch, rassistisch, xenophob",Pistole,Türkischer Angestellter,1,0,1,
+09.06.04,Köln,NSU,"rechtsextremistisch, neonazistisch, rassistisch, xenophob",Ferngezündete Nagelbombe,"Türkisches Geschäftszentrum, Türkische Zivilisten",0,22,1,
+09.06.05,Nürnberg,NSU,"rechtsextremistisch, neonazistisch, rassistisch, xenophob",Pistole,Türkischer Geschäftsinhaber,1,0,1,
+15.06.05,München,NSU,"rechtsextremistisch, neonazistisch, rassistisch, xenophob",Pistole,Griechischer Schlosser,1,0,1,
+04.04.06,Dortmund,NSU,"rechtsextremistisch, neonazistisch, rassistisch, xenophob",Pistole,Türkischer Geschäftsinhaber,1,0,1,
+06.04.06,Kassel,NSU,"rechtsextremistisch, neonazistisch, rassistisch, xenophob",Pistole,Türkischer Internetcafé-Inhaber,1,0,1,
+02.02.07,Dortmund,Combat 18,"nationalsozialistisch, rassistisch",Schusswaffe,Tunesier in Aldi-Filiale,1,0,1,
+25.04.07,Heilbronn,NSU,"rechtsextremistisch, neonazistisch, rassistisch, xenophob",Pistole,Polizisten,1,1,1,
+29.07.14,Wuppertal,,,Molotowcocktails,Synagoge,0,0,1,
+10.08.14,Bielefeld,,,Brandstiftung,Moschee,0,0,1,
+11.08.14,Berlin,,,Brandstiftung,Moschee,0,0,1,
+25.08.14,Berlin,Neonazis[170],neonazistisch,Brandbombe,CDU-Hauptquartier,0,0,1,
+30.08.14,Oldenburg,,,Brandstiftung,Moschee,0,0,1,
+04.09.14,Mölln,,,Brandstiftung,Moschee,0,0,1,
+29.09.14,Berlin,vermutlich Neonazis[175],neonazistisch,Molotowcocktail,Reichstagsgebäude,0,0,1,
+11.10.14,Bad Salzuflen,Jesidische Extremisten,,Brandstiftung,Moschee,0,0,1,
+12.10.14,Sanitz,,,Brandstiftung,Flüchtlingsunterkunft,0,0,1,
+12.12.14,Vorra,Freies Netz Süd,neonazistisch,Brandstiftung,Flüchtlingsunterkunft,0,0,1,
+28.06.15,Meißen,,,Brandstiftung,Flüchtlingsheim,0,0,1,
+29.06.15,Lübeck,,,Brandstiftung,Geplantes Flüchtlingsheim,0,0,1,
+12.07.15,Böhlen,,,Schusswaffen,Flüchtlingsheim,0,0,1,
+15.07.15,Reichertshofen,Der III. Weg,"rechtsextremistisch, neonazistisch, nationalistisch",Brandstiftung,Flüchtlingsheim,0,0,1,
+20.08.15,Berlin,,,Brandstiftung,Flüchtlingsheim,0,0,1,
+21.08.15,Neustadt an der Waldnaab,,,Brandstiftung,Flüchtlingsheim,0,0,1,
+24.08.15,Weissach im Tal,,,Brandstiftung,Geplantes Flüchtlingsheim,0,0,1,
+25.08.15,Nauen,Rechtsextremisten,rechtsextremistisch,Brandstiftung,Geplantes Flüchtlingsheim,0,0,1,
+25.08.15,Leipzig,,,Brandstiftung,Geplantes Flüchtlingsheim,0,0,1,
+28.08.15,Salzhemmendorf,vermutlich Rechtsextremisten,rechtsextremistisch,Brandstiftung,Flüchtlingsheim,0,0,1,
+04.09.15,Heppenheim,,,Brandstiftung,Flüchtlingsheim,0,5,1,
+07.09.15,Rottenburg am Neckar,,,Brandstiftung,Flüchtlingsheim,0,0,1,
+07.09.15,Ebeleben,,,Brandstiftung,Geplantes Flüchtlingsheim,0,0,1,
+09.09.15,Gersheim,,,Brandstiftung,Geplantes Flüchtlingsheim,0,0,1,
+11.09.15,Gerstungen,,,Brandstiftung,Geplantes Flüchtlingsheim,0,0,1,
+19.09.15,Freital,Bürgerwehr Freital,rechtsextremistisch,Sprengstoff,Flüchtlingsheim,0,0,1,
+19.09.15,Neuhardenberg,,,Brandstiftung,Fahrzeuge einer Willkommensinitiative für Flüchtlinge,0,0,1,
+19.09.15,Wertheim,,,Brandstiftung,Flüchtlingsheim,0,2,1,
+19.09.15,nahe Laage,,,Brandstiftung,Geplantes Flüchtlingsheim,0,0,1,
+03.10.15,Großhartmannsdorf,,,Brandstiftung,Flüchtlingsheim,0,0,1,
+03.10.15,Bischhagen,,,Brandstiftung,Geplantes Flüchtlingsheim,0,0,1,
+04.10.15,Friemar,Rechtsextremisten,rechtsextremistisch,Brandstiftung,Toiletten vor Flüchtlingsheim,0,0,1,
+11.10.15,Altena,,,Brandstiftung,Flüchtlingsheim,0,0,1,
+16.10.15,Flensburg,,,Brandstiftung,Flüchtlingsheim,0,0,1,
+28.10.15,Dresden,,,4 Molotowcocktails,Geplante Flüchtlingsunterkunft,0,0,1,
+31.10.15,Cossebaude,,,Brandstiftung,Geplante Flüchtlingsunterkunft,0,0,1,
+31.10.15,Magdeburg,,,Baseballschläger,Syrische Flüchtlinge,0,3,1,
+31.10.15,Wismar,,,Baseballschläger,Syrische Flüchtlinge vor Asylbewerberheim,0,2,1,
+01.11.15,Freital,Bürgerwehr Freital,rechtsextremistisch,Sprengsatz,Flüchtlingsheim,0,1,1,
+01.11.15,Jena,,,,Asylbewerber an Tram-Haltestelle,0,1,1,
+01.11.15,Sehnde,,,Molotowcocktail,Flüchtlingsheim,0,0,1,
+02.11.15,Lampertheim,,,Brandstiftung,Flüchtlingsheim,0,0,1,
+15.11.15,Trassenheide,,,Brandstiftung,Geplante Flüchtlingsunterkunft,0,0,1,
+22.11.15,Johanngeorgenstadt,,,Brandstiftung,Geplante Flüchtlingsunterkunft,0,0,1,
+28.11.15,Münster,,,Brandstiftung,Türkisches Konsulat,0,0,1,
+07.12.15,Deutschland,,,Brandstiftung,Flüchtlingsheim,0,10,1,
+09.12.15,Heide,,,Brandstiftung,Asylbewerberheim,0,0,1,
+13.12.15,Augsburg,,,versuchte Brandstiftung,Flüchtlingsheim,0,0,1,
+14.12.15,Pirna,,,Molotowcocktail,Geplante Flüchtlingsunterkunft,0,0,1,
+20.12.15,Godendorf,,,Molotowcocktail,Flüchtlingsheim,0,0,1,
+20.12.15,Tutow,,,Brandstiftung,Flüchtlingsheim,0,0,1,
+24.12.15,Wallerstein,,,Brandstiftung,Flüchtlingsheim,0,12,1,
+24.12.15,Schwäbisch Gmünd,,,Brandstiftung,Geplantes Flüchtlingsheim,0,0,1,
+26.12.15,Schlettau,,,Brandstiftung,Geplante Flüchtlingsunterkunft,0,0,1,
+31.12.15,nahe Hannover,,,Brandstiftung,Flüchtlingsunterkunft,0,0,1,
+01.01.16,Nürnberg,,antisemitisch,körperliche Gewalt,Jüdischer Zivilist in U-Bahnhof,0,1,1,
+04.01.16,Dreieich,,,Schusswaffen,Flüchtlingsunterkunft[230],0,1,1,
+17.01.16,Altenberg (Erzgebirge),Neonazis,neonazistisch,Stahlhelm,Afghanische Flüchtlinge,0,2,1,
+25.01.16,Witten,,,Brandstiftung,2 Gebäude nahe geplantem Flüchtlingsheim,0,0,1,
+30.01.16,Chemnitz,,,,Flüchtlingsunterkunft,0,0,1,
+30.01.16,Leipzig,,,,Flüchtlingsunterkunft,0,0,1,
+02.02.16,Oberhausen,,,Brandstiftung,im Bau befindliche Flüchtlingsunterkunft,0,0,1,
+20.02.16,Bautzen,,,Brandstiftung,Geplante Flüchtlingsunterkunft,0,0,1,
+22.07.16,München,David S.,"rechtsextremistisch, xenophob",Pistole,Zivilisten mit Migrationshintergrund,9 (+1),36,1,
+25.09.16,Bebra,,,Molotowcocktails,Moschee,0,0,1,
+27.09.16,Dresden,Nino K.,rechtsextremistisch,2 Sprengsätze,"Moschee, Internationales Congress Center",0,0,1,
+27.09.16,Erbach (Donau),,,Brandstiftung,Flüchtlingsheim,0,5,1,
+27.09.16,Köthen (Anhalt),,,Brandstiftung,Flüchtlingsheim,0,0,1,
+06.10.16,Sebnitz,Rechtsextremisten,rechtsextremistisch,körperliche Gewalt[250],Flüchtlingskinder,0,3,1,
+25.10.16,Döbeln,Vermutlich Reichsbürger,rechtsextremistisch,Feuer,Syrische Großfamilie,0,12,1,
+08.11.16,Chemnitz,,,Sprengsatz,Kulturzentrum,0,0,1,
+14.11.16,Magdeburg,Neonazis,neonazistisch,Brandstiftung,Syrisches Unternehmen,0,0,1,
+01.03.17,Döbeln,Gisela Berger,rechtsextremistisch,Brandstiftung,,1,0,1,Ruth K
+14.04.17,Artern,,,Brandstiftung,Asylbewerberheim,0,0,1,
+14.04.17,Kremmen,,,Brandstiftung,Asylbewerberheim,0,0,1,
+29.06.17,Berlin,,,Sprengsatz,Schnellrestaurant,0,0,1,
+27.11.17,Altena,,rechtsextremistisch,Messer,Andreas Hollstein,0,1,1,Andreas Hollstein
+07.01.18,Düren,,,Schusswaffe,Deniz Naki,0,0,1,
+17.02.18,Heilbronn,Willi B.,"rassistisch, xenophob",Messer,Asylbewerber,0,3,1,Samer A.<br>Mohammad T.
+02.03.18,Alpen (Niederrhein),,"rassistisch, xenophob",Sprengsatz,Asylbewerberunterkunft,0,0,1,
+11.03.18,Meschede,Kurdische Extremisten,,Brandstiftung,Deutsch-Türkisches Kulturzentrum,0,0,1,
+11.03.18,Itzehoe,,,Brandstiftung,Türkischer Gemüseladen,0,0,1,
+12.03.18,Ahlen,,,Brandstiftung,Türkisches Gemeindezentrum,0,0,1,
+19.03.18,Ulm,,,Brandstiftung,Moschee,0,0,1,
+25.03.18,Kassel,,,Brandstiftung,Moschee,0,0,1,
+17.07.18,Heilbronn,vermutlich Islamophobe Extremisten,islamophob,Luftpistole,Muslimische Zivilistin in Bäckerei,0,0,1,
+27.08.18,Chemnitz,,antisemitisch,"Steine, Flaschen",Jüdisches Restaurant,0,1,1,Uwe Dziuballa 
+14.09.18,Chemnitz,Revolution Chemnitz,rechtsextremistisch,"Flaschen, Elektroschockgerät",Migranten,0,,1,
+18.10.18,Chemnitz,,xenophob,Brandstiftung,Türkisches Restaurant,0,0,1,
+02.06.19,Wolfhagen-Istha,Stephan Ernst,rechtsextremistisch,Pistole,Walter Lübcke,1,0,1,Walter Lübcke
+22.07.19,Wächtersbach,Roland K.,rassistisch,Schusswaffe,Eritreer,0,1,1,Bilal M.
+15.09.19,Taunusstein,,"rassistisch, xenophob",Schusswaffe,People of Color,0,1,1,
+09.10.19,Halle (Saale),Stephan B. (angeklagt),"rechtsextremistisch, antisemitisch, xenophob","Schusswaffen, Sprengstoff","Synagoge, Döner-Imbiss",2,2,1,Jana L. <br>Kevin S.<br>Jens Z.<br>Dagmar Z.
+19.02.20,Hanau,Tobias R.,rechtsextremistisch,Schusswaffen,"Lokale, Zivilisten",10,5,1,Ferhat Ünvar<br>Gökhan Gültekin <br>Hamza Kurtovi? <br>Said Nesar Hashemi <br>Mercedes Kierpacz <br>Sedat Gürbüz <br>Kalojan Welkow <br>Vili Viorel P?un <br>Fatih Saraço?lu <br>Frau R.
