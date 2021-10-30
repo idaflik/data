@@ -1,19 +1,34 @@
 MSNAME,DEST,N_RETURNEES
-Germany,Albania,0
-Italy,Kosovo,0
-Spain,Tunisia,0
-France,Nigeria,0
-Austria,Serbia,0
-Sweden,Georgia,0
-Belgium,Macedonia,0
-Greece,Pakistan,0
-Hungary,Afghanistan,0
-Norway,Colombia,0
-Ireland,Moldova,0
-United Kingdom,Armenia,0
-Iceland,Ecuador,0
-Netherlands,Russia,0
-Switzerland,Bosnia and Herzegovina,0
+Germany,,0
+Italy,,0
+Spain,,0
+France,,0
+Austria,,0
+Sweden,,0
+Belgium,,0
+Greece,,0
+Hungary,,0
+Norway,,0
+Ireland,,0
+United Kingdom,,0
+Iceland,,0
+Netherlands,,0
+Switzerland,,0
+,Albania,0
+,Kosovo,0
+,Tunisia,0
+,Nigeria,0
+,Serbia,0
+,Georgia,0
+,Macedonia,0
+,Pakistan,0
+,Afghanistan,0
+,Colombia,0
+,Moldova,0
+,Armenia,0
+,Ecuador,0
+,Russia,0
+,Bosnia and Herzegovina,0
 Austria,Afghanistan,377
 Belgium,Afghanistan,3
 France,Afghanistan,1
