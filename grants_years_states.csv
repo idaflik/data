@@ -1,20 +1,4 @@
 country,year,grants
-"Administration of theState Border GuardService of Ukraine",2016,103862
-Albania,2009,33896.21
-Albania,2010,65460.689999999995
-Albania,2011,28275.649999999998
-Albania,2012,32686.1
-Albania,2013,28416.87
-Albania,2014,56922.26
-Albania,2015,44310
-Albania,2017,209411
-Albania,2018,176643.09
-Albania,2019,970013.15
-Albania,2020,1116795.99
-Albania,2021,1458209.19
-Albania,2022,1508102.4
-"Aparati i Drejtorise sePergjithshme tePolicise se Shtetit",2016,124055
-Armed Forces of Malta,2016,2190975
 Austria,2008,1246865.99
 Austria,2009,2794601.78
 Austria,2010,4292918.07
@@ -29,106 +13,6 @@ Austria,2019,10603766.52
 Austria,2020,5339681.12
 Austria,2021,4282493.03
 Austria,2022,4835052.71
-Belarus,2010,5557.65
-Belarus,2011,22737.65
-Belarus,2015,13186
-Belarus,2018,4060.65
-Belarus,2019,21820.510000000002
-Belgian Federal Police,2016,223653
-Belgium,2008,117532.17
-Belgium,2009,185440.48
-Belgium,2010,237412.77
-Belgium,2011,291120.07
-Belgium,2012,171047.91
-Belgium,2013,197215.01
-Belgium,2014,216527.07
-Belgium,2015,1823440
-Belgium,2017,4245002
-Belgium,2018,3135903.02
-Belgium,2019,1949205
-Belgium,2020,985795.28
-Belgium,2021,1458932.82
-Belgium,2022,4442044.99
-"Border PoliceDepartment",2016,67319
-"Border Police of Bosniaand Herzegovina",2016,16457
-"Border and Alien PoliceDirectorate",2016,22663
-"Bosna andHerzegovina",2021,13655.34
-Bosna and Herzegovina,2022,6319.42
-"Bosnia andHerzegovina",2012,4300
-"Bosnia andHerzegovina",2013,13756.99
-"Bosnia andHerzegovina",2014,25099.11
-"Bosnia andHerzegovina",2015,9320
-"Bosnia andHerzegovina",2017,10010
-"Bosnia andHerzegovina",2018,8750.46
-"Bosnia andHerzegovina",2019,29125.4
-"Bosnia&Herzegovina",2011,4120.28
-Bulgaria,2008,91053.85
-Bulgaria,2009,172526.7
-Bulgaria,2010,351421.19
-Bulgaria,2011,444762.28
-Bulgaria,2012,510465.06
-Bulgaria,2013,449928.26
-Bulgaria,2014,593690.89
-Bulgaria,2015,609665
-Bulgaria,2017,3785208
-Bulgaria,2018,2207436.11
-Bulgaria,2019,1793434
-Bulgaria,2020,2097048
-Bulgaria,2021,3118005.46
-Bulgaria,2022,3154256.47
-"BundespolizeiprasidiumFederal Police CentralOffice",2016,25183362
-"Bureau of Border andAlien Police",2016,1099710
-Cabo Verde,2014,1914.88
-Cape Verde,2015,2604
-Croatia,2008,166680
-Croatia,2009,37104.8
-Croatia,2010,50138.46
-Croatia,2011,18129.34
-Croatia,2012,38292.44
-Croatia,2013,69466.26
-Croatia,2014,104374.74
-Croatia,2015,2417969
-Croatia,2017,1347243
-Croatia,2018,1237419
-Croatia,2019,1435695.17
-Croatia,2020,1644773
-Croatia,2021,2470311.87
-Croatia,2022,3012858.89
-"Cuerpo Nacional de
-Policia",2016,188136
-"Cuerpo Nacional dePolicia",2016,4090069
-Cyprus,2008,32823.18
-Cyprus,2009,37118.34
-Cyprus,2010,46480.909999999996
-Cyprus,2011,23101.8
-Cyprus,2012,8315.29
-Cyprus,2015,231304
-Cyprus,2017,104300
-Cyprus,2018,75284
-Cyprus,2019,70329
-Cyprus,2020,109910
-Cyprus,2021,157191.08
-Cyprus,2022,326663.79
-"Cyprus Police, PoliceHeadquarters",2016,37574
-"CzechRepublic",2010,130436.89
-"CzechRepublic",2013,88322.08
-"CzechRepublic",2017,2062038
-"CzechRepublic",2018,2273866
-"CzechRepublic",2020,3663975
-"CzechRepublic",2021,2320538.56
-"Czech 
-Republic",2021,62222.01
-Czech Republic,2008,65835.06
-Czech Republic,2009,112507.34
-Czech Republic,2011,94274.81999999999
-Czech Republic,2012,66379.93
-Czech Republic,2014,175480.76
-Czech Republic,2015,338135
-Czech Republic,2019,2941712.01
-Czech Republic,2022,2652265.51
-Czech republic,2008,2744
-"Danish EmergencyManagement Agency",2016,12000
-Danish National Police,2016,4108501
 Denmark,2008,59717.05
 Denmark,2009,176812.03
 Denmark,2010,356878.73
@@ -143,51 +27,6 @@ Denmark,2019,4576560
 Denmark,2020,6875337.7
 Denmark,2021,7115854.34
 Denmark,2022,9807108.04
-"DienstVreemdelingenzaken",2016,717654
-"Direccao deEstrangeiros eFronteiras",2016,2622
-"Direction Centrale de
-la Police aux Frontieres",2016,20473
-"Direction Centrale dela Police Judiciaire",2016,422018
-"Direction Centrale dela Police aux Frontieres",2016,1816281
-"Direction Centrale dela Securite Publique",2016,433122
-"Direction Centrale descompagniesrepublicaines desecurite",2016,828780
-"Direction Generale dela Gendarmerienationale",2016,1561936
-"Direction Generale desDouanes et DroitsIndirects",2016,503464
-"Directorate Border andAlien Police, Presov",2016,37518
-"Direzione Centrale
-dell'Immigrazione e
-della Polizia delle
-Frontiere
-Ministero dell'Interno,
-Dipartimento della
-Pubblica Sicurezza,
-Direzione Centrale
-dell'Immigrazione e
-della Polizia delle
-Frontiere",2016,476849
-"Dutch Royal
-Marechaussee",2016,12200
-"Dutch RoyalMarechaussee",2016,8771332
-Egypt,2022,108347
-Estonia,2008,81086.89
-Estonia,2009,427190.12
-Estonia,2010,465083.95
-Estonia,2011,738187.95
-Estonia,2012,794202.54
-Estonia,2013,422410
-Estonia,2014,915553.58
-Estonia,2015,569258
-Estonia,2017,1166689
-Estonia,2018,1764321
-Estonia,2019,1741881.59
-Estonia,2020,2052716.88
-Estonia,2021,2139510.11
-Estonia,2022,2647795.67
-"FYRMacedonia",2013,15002.47
-"FYR ofMacedonia",2018,70166.97
-FYROM,2011,2436.16
-FYROM,2012,10736.93
-"Federal Ministry of theInterior",2016,7219651
 Finland,2008,690369.14
 Finland,2009,654699.29
 Finland,2010,1179353.24
@@ -202,13 +41,6 @@ Finland,2019,1780911
 Finland,2020,2434313.49
 Finland,2021,2779224.45
 Finland,2022,3798904.1
-Finnish Border Guard,2016,3789153
-"Finnish National PoliceBoard",2016,40253
-"FormerYugoslavRepublic OfMacedonia",2017,26629
-"FormerYugoslavRepublic ofMacedonia",2017,31427
-"FormerYugoslavRepublic ofMacedonia",2018,4725.12
-"Former YugoslavRepublic OfMacedonia",2015,34428
-"Former YugoslavRepublic ofMacedonia",2014,22469.51
 France,2008,2549593.29
 France,2009,2243881.33
 France,2010,1966309.72
@@ -223,18 +55,6 @@ France,2019,8796817.2
 France,2020,7238153.12
 France,2021,8871296.52
 France,2022,12888994.68
-"General Inspectoratefor Immigration",2016,121405
-"General Inspectorate ofAviation",2016,816851
-"General Inspectorate ofthe Romanian BorderPolice",2016,5353418
-"General Inspectorate ofthe Romanian Police",2016,155024
-Georgia,2014,11209.67
-Georgia,2015,15913
-Georgia,2017,88701
-Georgia,2018,110642.14
-Georgia,2019,254098.25
-Georgia,2020,43686.02
-Georgia,2021,109389.31
-Georgia,2022,79038.87
 Germany,2008,2934705.73
 Germany,2009,3658109.34
 Germany,2010,3335825.29
@@ -263,26 +83,6 @@ Greece,2019,9180299.92
 Greece,2020,6839206
 Greece,2021,9312248.62
 Greece,2022,15554277.94
-Guardia Civil,2016,6773072
-"Headquarters of PolishBorder Guards",2016,4655933
-"Hellenic Ministry ofMaritime Affairs andInsular Policy, HellenicCoast Guard",2016,5044376
-Hellenic Police,2016,8382337
-"Helsinki PoliceDepartment",2016,1628034
-"Hungarian PoliceHeadquarters",2016,598150
-Hungary,2008,284070.27
-Hungary,2009,584090.6
-Hungary,2010,609394.23
-Hungary,2011,422841
-Hungary,2012,211064.01
-Hungary,2013,291921.73
-Hungary,2014,240103.44
-Hungary,2015,354742
-Hungary,2017,1197720
-Hungary,2018,1173148.32
-Hungary,2019,781394.44
-Hungary,2020,999305
-Hungary,2021,3472702.12
-Hungary,2022,4301593.37
 Iceland,2008,4581.97
 Iceland,2009,50811.14
 Iceland,2010,4401473.6899999995
@@ -297,17 +97,6 @@ Iceland,2019,3234829
 Iceland,2020,2792047.54
 Iceland,2021,3615334.91
 Iceland,2022,3365015.16
-Icelandic Coast Guard,2016,659270
-"Immigration andNaturalisation Service",2016,3519898
-Iraq,2022,1617200
-Ireland,2008,80573.8
-Ireland,2009,409338.92
-Ireland,2010,470031.37
-Ireland,2011,188755.13999999998
-Ireland,2012,188867.78
-Ireland,2013,226177.9
-Ireland,2014,13188.82
-Ireland,2015,186701
 Italy,2008,8920927.21
 Italy,2009,4804261.29
 Italy,2010,5911636.55
@@ -322,11 +111,6 @@ Italy,2019,21303639.43
 Italy,2020,19133369.73
 Italy,2021,32500437.15
 Italy,2022,39458242.04
-Kosovo,2017,29015
-Kosovo,2018,99814.95
-Kosovo,2019,154789.41
-Kosovo,2021,27156.6
-Kosovo,2022,20111.72
 Latvia,2008,97788.14
 Latvia,2009,669823.88
 Latvia,2010,2778952.9899999998
@@ -341,109 +125,6 @@ Latvia,2019,7909278.9
 Latvia,2020,7555250
 Latvia,2021,10186662.77
 Latvia,2022,8856925.06
-Lithuania,2008,344908.22000000003
-Lithuania,2009,960183.75
-Lithuania,2010,872657.57
-Lithuania,2011,1178198.19
-Lithuania,2012,1242244.34
-Lithuania,2013,119935.71
-Lithuania,2014,270951.42
-Lithuania,2015,1032671
-Lithuania,2017,2009698
-Lithuania,2018,3056439.32
-Lithuania,2019,3434380.38
-Lithuania,2020,3605569
-Lithuania,2021,3825392.8
-Lithuania,2022,3655340.43
-Luxembour,2020,3988066
-Luxembourg,2008,1752451.8699999999
-Luxembourg,2009,3508414.39
-Luxembourg,2010,2825222.92
-Luxembourg,2011,2482480.96
-Luxembourg,2012,2427703.74
-Luxembourg,2013,1497051.78
-Luxembourg,2014,20517.95
-Luxembourg,2015,73919
-Luxembourg,2017,3395772
-Luxembourg,2018,2977145.37
-Luxembourg,2019,3109730
-Luxembourg,2021,4507660.83
-Luxemburg,2022,4316258.37
-"MIA Patrol PoliceDepartment of Georgia",2016,3050
-Macedonia,2011,14086.74
-Malta,2008,1257173.58
-Malta,2009,1209147.82
-Malta,2010,532473.59
-Malta,2011,334105.33
-Malta,2012,329058.75
-Malta,2013,703481.44
-Malta,2014,955685.2999999999
-Malta,2015,1860314
-Malta,2017,1973296
-Malta,2018,745549
-Malta,2019,645144
-Malta,2020,348295
-Malta,2021,1082413.19
-Malta,2022,1222295.51
-"Malta Police Force,Police GeneralHeadquarters",2016,24068
-"Marine Nationale -French Navy",2016,1106291
-"Ministere de l'Interieur,Direction de la SecuriteInterieur, PoliceGrand-Ducale",2016,314739
-"Ministere de l'interieur,Direction generale desetrangers",2016,1209604
-"Ministero dell'Interno,
-Dipartimento della
-Pubblica Sicurezza,
-Direzione Centrale
-dell'Immigrazione e della Polizia delle
-Frontiere",2016,39883
-"Ministero dell'Interno,
-Dipartimento della
-Pubblica Sicurezza,
-Direzione Centrale dell'Immigrazione e
-della Polizia delle
-Frontiere",2016,648900
-"Ministero dell'Interno,
-Dipartimento della
-Pubblica Sicurezza, Direzione Centrale
-dell'Immigrazione e
-della Polizia delle
-Frontiere",2016,9930
-"Ministero dell'Interno,Dipartimento dellaPubblica Sicurezza,",2016,217322
-"Ministero dell'Interno,Dipartimento dellaPubblica Sicurezza,Direzione Centraledell'Immigrazione edella Polizia delleFrontiere",2016,20021085
-"Ministry of ForeignAffairs",2016,51734
-Ministry of Interior,2016,5064
-"Ministry of Interior -
-Police",2016,22562
-"Ministry of Interior -Police",2016,654359
-"Ministry of Interior ofRepublic of Serbia",2016,91309
-"Ministry of Interior ofthe Slovak Republic",2016,622
-"Ministry of Interior,National Police Service,Chief DirectorateBorder Police",2016,2694127
-"Ministry of Interior,Turkish NationalPolice, InternationalRelations Department",2016,57776
-"Ministry of InternalAffairs",2016,47588
-"Ministry of the Interior,Directorate forFinancial-MaterialAffairs",2016,879069
-Moldova,2008,15232.8
-Moldova,2009,12772.8
-Moldova,2010,16868
-Moldova,2011,26193.14
-Moldova,2012,16363.98
-Moldova,2013,23496.18
-Moldova,2014,32505.87
-Moldova,2015,17829
-Moldova,2017,77879
-Moldova,2018,71477.31
-Moldova,2019,270614.55
-Moldova,2021,85924.20999999999
-Moldova,2022,735505.16
-Montenegro,2012,9604.2
-Montenegro,2015,667
-Montenegro,2017,7426
-Montenegro,2018,2621.5
-Montenegro,2019,2696.4
-Montenegro,2020,31798.26
-Montenegro,2021,176583.17
-Montenegro,2022,114300.61
-"National OperationsDepartment",2016,5598355
-"National PoliceDirectorate",2016,10096198
-"National PoliceImmigration Service",2016,1151804
 Netherlands,2009,760870.29
 Netherlands,2010,2155872.68
 Netherlands,2011,4828666.75
@@ -457,27 +138,6 @@ Netherlands,2019,12999588
 Netherlands,2020,6989489.82
 Netherlands,2021,5198414.44
 Netherlands,2022,5444743.74
-Nigeria,2015,5425
-"Nigerian ImmigrationService",2016,15349
-North Macedonia,2019,76360.24
-Norway,2008,25284.11
-Norway,2009,253897.05000000002
-Norway,2010,617772.44
-Norway,2011,1119220.23
-Norway,2012,852484.2899999999
-Norway,2013,386437.81
-Norway,2014,790982.43
-Norway,2015,7661327
-Norway,2017,9119602
-Norway,2018,1976893.4
-Norway,2019,1821452.84
-Norway,2020,1167873.08
-Norway,2021,1477956.19
-Norway,2022,2785255.61
-"Office of Immigrationand Nationality",2016,173270
-"Office of the NationalCommissioner of theIcelandic Police",2016,917697
-Pakistan,2022,303960
-"Patrol PoliceDepartment",2016,34986
 Poland,2008,266495.14
 Poland,2009,1403079.97
 Poland,2010,1563228.9
@@ -492,8 +152,6 @@ Poland,2019,3868844.46
 Poland,2020,6075667.07
 Poland,2021,6266630.21
 Poland,2022,6571682.53
-"Police and BorderGuard Board",2016,1622516
-"Police of the CzechRepublic",2016,1667094
 Portugal,2008,1082612.56
 Portugal,2009,1130456.08
 Portugal,2010,858252.02
@@ -508,11 +166,6 @@ Portugal,2019,11067456.08
 Portugal,2020,7324938.9
 Portugal,2021,8746608.45
 Portugal,2022,13196658.39
-Portuguese Navy,2016,125588
-Prefecture de Police,2016,892314
-"Repatriation andDeparture Service",2016,587949
-"Republic ofN.Macedonia",2021,60824.17
-Republic of N.Macedonia,2022,15817.81
 Romania,2008,1011933.89
 Romania,2009,597880.12
 Romania,2010,1611465.46
@@ -527,51 +180,6 @@ Romania,2019,4411339.3
 Romania,2020,5632642.59
 Romania,2021,8753260.6
 Romania,2022,8751453.29
-Serbia,2009,34023.2
-Serbia,2010,72538.56999999999
-Serbia,2011,134585.96
-Serbia,2012,8208.369999999999
-Serbia,2013,18199.68
-Serbia,2014,11089.48
-Serbia,2015,151062
-Serbia,2017,100074
-Serbia,2018,99856.68
-Serbia,2019,90547.68000000001
-Serbia,2020,12504.13
-Serbia,2021,375277.89999999997
-Serbia,2022,415992.46
-"Servico de Estrangeiros
-e Fronteiras",2016,21706
-"Servico de Estrangeirose Fronteiras",2016,10176402
-"SlovakRepublic",2018,1014024
-"SlovakRepublic",2020,751552
-"Slovakrepublic",2020,313804
-Slovak Republic,2019,727940
-Slovakia,2008,128405.42
-Slovakia,2009,649889.4
-Slovakia,2010,579725.46
-Slovakia,2011,382619.49
-Slovakia,2012,294633.13
-Slovakia,2013,227119.55
-Slovakia,2014,208932.49
-Slovakia,2015,388481
-Slovakia,2017,628028
-Slovakia,2021,1076889.42
-Slovakia,2022,2011838.7
-Slovenia,2008,88033.97
-Slovenia,2009,150839.01
-Slovenia,2010,259782.39
-Slovenia,2011,240899.16
-Slovenia,2012,292282.83
-Slovenia,2013,223811.47
-Slovenia,2014,279696.3
-Slovenia,2015,319802
-Slovenia,2017,389349
-Slovenia,2018,515100
-Slovenia,2019,485959
-Slovenia,2020,867733
-Slovenia,2021,1396748.53
-Slovenia,2022,2341283.11
 Spain,2008,8325306.07
 Spain,2009,8432733.87
 Spain,2010,7171861.81
@@ -586,10 +194,6 @@ Spain,2019,11044921.06
 Spain,2020,9945759.26
 Spain,2021,16789813.82
 Spain,2022,18672893.97
-"State BorderCommittee",2016,46229
-State Border Guard,2016,5737043
-"State Border GuardService",2016,1990657
-Sudurnes Police District,2016,8653
 Sweden,2008,250948.69
 Sweden,2009,1415849.16
 Sweden,2010,1906240.9100000001
@@ -604,46 +208,18 @@ Sweden,2019,7423487
 Sweden,2020,4544595.93
 Sweden,2021,9078644.59
 Sweden,2022,6661757.4
-Swiss Border Guard,2016,1912794
-Switzerland,2008,110000.54000000001
-Switzerland,2011,331742.74
-Switzerland,2012,288942.87
-Switzerland,2013,265032.88
-Switzerland,2014,401024.58
-Switzerland,2015,541095
-Switzerland,2017,1806933
-Switzerland,2018,2420087.5
-Switzerland,2019,1538590.5
-Switzerland,2020,422931.97
-Switzerland,2021,1737617.42
-Switzerland,2022,2012522.02
-The Netherlands,2008,736688.23
-Turkey,2008,83525.5
-Turkey,2011,5710.24
-Turkey,2013,12198
-Turkey,2014,12928.3
-Turkey,2015,26896
-Turkey,2018,13401.75
-Turkey,2019,30757.15
-Turkish National Police,2016,16937
-UK,2008,347616.34
-Ukraine,2008,48223.21
-Ukraine,2009,41563.92
-Ukraine,2010,90560.31
-Ukraine,2011,42196.479999999996
-Ukraine,2012,99833.83
-Ukraine,2013,29583.18
-Ukraine,2014,16399.89
-Ukraine,2015,32309
-Ukraine,2017,192506
-Ukraine,2018,167476.02
-Ukraine,2019,161983.02
-Ukraine,2021,146768.69
-Ukraine,2022,38028.87
-"UnitedKingdom",2010,1170714.32
-"UnitedKingdom",2013,515887.42
-United Kingdom,2009,196079.63
-United Kingdom,2011,565284.92
-United Kingdom,2012,141675.45
-United Kingdom,2014,302142.65
-United Kingdom,2015,388990
+_rest,2008,5859943.01
+_rest,2009,9016024.48
+_rest,2010,9469733.68
+_rest,2011,9136065.72
+_rest,2012,8039393.7700000005
+_rest,2013,5824852.67
+_rest,2014,5679391.39
+_rest,2015,19151762
+_rest,2016,172722033
+_rest,2017,34003956
+_rest,2018,25402252.68
+_rest,2019,24539653.69
+_rest,2020,24224131.61
+_rest,2021,32757880.99
+_rest,2022,43844996.76
