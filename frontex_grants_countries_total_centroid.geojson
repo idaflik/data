@@ -18,7 +18,6 @@
 { "type": "Feature", "properties": { "name": "Spain", "eur": 152712144.84 }, "geometry": { "type": "Point", "coordinates": [ -3.70353625253198, 40.207653984015394 ] } },
 { "type": "Feature", "properties": { "name": "Estonia", "eur": 17548403.28 }, "geometry": { "type": "Point", "coordinates": [ 25.54503287734331, 58.67290242493732 ] } },
 { "type": "Feature", "properties": { "name": "Finland", "eur": 36714961.49 }, "geometry": { "type": "Point", "coordinates": [ 26.194973097453786, 64.255136000027676 ] } },
-{ "type": "Feature", "properties": { "name": "France", "eur": 81676161.16 }, "geometry": { "type": "Point", "coordinates": [ -6.676141125114959, 42.955140176511129 ] } },
 { "type": "Feature", "properties": { "name": "United Kingdom", "eur": 3628390.73 }, "geometry": { "type": "Point", "coordinates": [ -2.758142056330543, 54.011649746128718 ] } },
 { "type": "Feature", "properties": { "name": "Georgia", "eur": 750714.26 }, "geometry": { "type": "Point", "coordinates": [ 43.524256026628237, 42.172941984875564 ] } },
 { "type": "Feature", "properties": { "name": "Greece", "eur": 120117400.82 }, "geometry": { "type": "Point", "coordinates": [ 22.964285442306391, 39.047959603655976 ] } },
@@ -48,6 +47,7 @@
 { "type": "Feature", "properties": { "name": "Slovenia", "eur": 8528240.77 }, "geometry": { "type": "Point", "coordinates": [ 14.800523261488326, 46.11589047659146 ] } },
 { "type": "Feature", "properties": { "name": "Sweden", "eur": 59834783.86 }, "geometry": { "type": "Point", "coordinates": [ 16.266950180562045, 62.383656074243007 ] } },
 { "type": "Feature", "properties": { "name": "Turkey", "eur": 260129.94 }, "geometry": { "type": "Point", "coordinates": [ 35.1728012164006, 39.137013310437958 ] } },
-{ "type": "Feature", "properties": { "name": "Ukraine", "eur": 1211294.42 }, "geometry": { "type": "Point", "coordinates": [ 31.462675506751641, 49.021833721076462 ] } }
+{ "type": "Feature", "properties": { "name": "Ukraine", "eur": 1211294.42 }, "geometry": { "type": "Point", "coordinates": [ 31.462675506751641, 49.021833721076462 ] } },
+{ "type": "Feature", "properties": { "name": "France", "eur": 81676161.16 }, "geometry": { "type": "Point", "coordinates": [ 2.572878127615107, 46.505583325889368 ] } }
 ]
 }
